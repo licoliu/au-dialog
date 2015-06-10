@@ -4,7 +4,7 @@
     var zIndex = 10001;
     var licoDialog = function() {
       return {
-        version: '0.3.2',
+        version: '0.3.3',
         defaults: {
           container: 'body',
           destory: true,
